@@ -1,0 +1,1364 @@
+/* ===========================================Extra Extra Device========================================== */
+@media(min-width:1400px){
+
+}
+/* ===========================================Extra Large Device========================================== */
+@media(min-width:1200px) and (max-width:1399.98px){
+
+}
+/* ===========================================Large Device========================================== */
+@media(min-width:992px) and (max-width:1199.98px){
+/* ------------Header Part Start------------ */
+.h-top-left {
+	padding-left: 0px;
+	justify-content: center;
+}
+.h-top-mid {
+	justify-content: center;
+}
+.h-top-right {
+	justify-content: center;
+	padding-right: 0px;
+}
+/* ------------Bannar Part Start------------ */
+#bannar {
+	padding-top: 330px;
+    padding-bottom: 170px;
+}
+.bannar-con h1 {
+	font-size: 70px;
+	line-height: 100px;
+	margin-bottom: 15px;
+}
+.array-next {
+	bottom: 235px;
+}
+.array-prev {
+	bottom: 235px;
+}
+/* ------------About Part Start------------ */
+.founder {
+	padding: 15px 15px;
+	width: 224px;
+}
+.big-heading h2 {
+	font-size: 52px;
+	line-height: 60px;
+}
+.founder-text {
+	padding-left: 15px;
+}
+
+/* ------------Brand Part Start------------ */
+#brand {
+	padding-top: 145px;
+	padding-bottom: 70px;
+}
+/* ------------Our Work Part Start------------ */
+#our-work {
+	background-color: #1b1b1b;
+	padding-top: 70px;
+	padding-bottom: 400px;
+	margin-top: 187px;
+
+}
+/* ------------Case Study Part Start------------ */
+.let-know h4 {
+	padding-top: 70px;
+}
+/* ------------Case Study Bg Part Start------------ */
+#case-study-bg {
+	height: 350px;
+}
+/* ------------Process Part Start------------ */
+#process {
+	padding: 70px 0;
+}
+.process-item {
+	padding: 40px 20px;
+}
+.process-con {
+	padding-top: 0px;
+}
+.proc-item-head h4 {
+	font-size: 18px;
+	padding-top: 40px;
+}
+.proc-icon i {
+	font-size: 70px;
+}
+/* ------------Feedback Part Start------------ */
+#feedback {
+	padding-top: 70px;
+	padding-bottom: 390px;
+}
+.feedback-item {
+	padding: 30px;
+}
+
+.feedback-item .sec-para h5 {
+	line-height: 28px;
+}
+.feed-msg-main {
+	top: -120px;
+	right: -120px;
+	height: 240px;
+	width: 240px;
+}
+.feed-msg-icon {
+	bottom: 45px;
+	left: 43px;
+}
+/* -----------Request Part Start------------ */
+.request-item {
+	padding: 50px 20px;
+}
+.request-img {
+	height: 520px;
+	width: 440px;
+	top: 62px;
+	right: 12px;
+}
+#full-name {
+	padding: 22px 30px;
+	width: 450px;
+}
+#full-email {
+	padding: 22px 30px;
+	width: 450px;
+}
+#full-textarea {
+	padding: 22px 30px;
+	width: 450px;
+	height: 140px;
+}
+#submit-btn {
+	margin-top: 15px;
+}
+/* ------------Blog Part Start------------ */
+#blog {
+	margin-top: 340px;
+}
+.blog-item {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+#blog .big-heading h2{
+	padding-top: 25px;
+}
+.blog-item-text h4 {
+	font-size: 17px;
+}
+/* ------------Footer Part Start------------ */
+.f-top {
+	padding-top: 75px;
+	padding-bottom: 50px;
+}
+.f1-para p {
+	font-size: 16px;
+	line-height: 25px;
+}
+.get-support-main {
+	width: 100%;
+}
+.get-support {
+	padding: 15px 15px;
+}
+.footer-email {
+	padding: 20px 20px;
+}
+#subscribe-btn {
+	padding: 15px 20px;
+}
+.f-bottom {
+	padding: 22px 0;
+}
+.f-bottom h4 {
+	margin-bottom: 0;
+}
+
+
+
+}
+/* ===========================================Medium Device========================================== */
+@media(min-width:768px) and (max-width:991.98px){
+/* ------------Header Part Start------------ */
+.h-top-left {
+	padding-left: 0px;
+	justify-content: center;
+}
+.h-top-mid {
+	justify-content: center;
+}
+.h-top-right {
+	justify-content: center;
+	padding-right: 0px;
+}
+/* -----------Bannar Part Start------------ */
+#bannar {
+	padding-top: 300px;
+    padding-bottom: 150px;
+}
+.bannar-con h1 {
+	font-size: 70px;
+	line-height: 90px;
+}
+.array-next {
+	bottom: 235px;
+}
+.array-prev {
+	bottom: 235px;
+}
+/* ------------About Part Start------------ */
+#about {
+	padding: 70px 0;
+}
+.about-con {
+	padding-top: 90px;
+}
+.about-img-main{
+	margin: 0 auto;
+}
+.founder {
+	top: 30px;
+	right: 0px;
+}
+.about-img {
+	padding: 0px 100px 0px 143px;
+}
+.about-after {
+	top: 40px;
+	left: 180px;
+}
+#about .big-heading h2 {
+	padding-top: 20px;
+}
+/* ------------Service Part Start------------ */
+.service-item {
+	padding: 35px;
+}
+.s-con-name h4 {
+	line-height: 32px;
+}
+.brand-item{
+	margin: 0 15px;
+}
+#brand {
+	padding-top: 190px;
+	padding-bottom: 75px;
+	top: -110px;
+}
+/* ------------Our Work Part Start------------ */
+#our-work {
+	margin-top: 195px;
+	padding-top: 70px;
+	padding-bottom: 330px;
+}
+.work-video {
+	margin-top: 45px;
+}
+/* ------------Case Study Part Start------------ */
+#case-study .container {
+	top: -250px;
+}
+.case-study-blank-item{
+	display: none;
+}
+.overlay-text {
+	padding: 15px 25px 40px 25px;
+}
+.overlay-text h3 {
+	font-size: 21px;
+	line-height: 25px;
+}
+.study-details {
+	left: 25px;
+}
+.let-know h4 {
+	padding-top: 70px;
+}
+/* ------------Case Study Bg Part Start------------ */
+#case-study-bg {
+	height: 300px;
+}
+/* ------------Process Part Start------------ */
+#process {
+	padding: 70px 0;
+}
+.process-con {
+	padding-top: 45px;
+}
+/* ------------Feedback Part Start------------ */
+#feedback {
+	padding-top: 60px;
+	padding-bottom: 390px;
+}
+.feedback-item {
+	padding: 50px;
+	margin-bottom: 15px;
+}
+/* ------------Request Part Start------------ */
+#request .container {
+	top: -340px;
+}
+.request-img{
+	display: none;
+}
+.request-item {
+	clip-path: polygon(0 0, 100% 0, 80% 100%, 0% 100%);
+	padding: 50px;
+}
+#full-name {
+	margin-top: 30px;
+}
+#submit-btn {
+	margin-top: 15px;
+}
+/* ------------blog Part Start------------ */
+#blog {
+	margin-top: 240px;
+}
+.blog-heading h5{
+	margin-bottom: 20px;
+}
+.blog-heading h5::before {
+	width: 60px;;
+	right: 225px;
+}
+.blog-heading h5::after {
+	width: 60px;;
+	left: 225px;
+}
+.blog-item-text h4 {
+	font-size: 20px;
+}
+.blog-item {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+/* ------------Footer Part Start------------ */
+.f-top {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.f-logo{
+	text-align: center;
+	padding-bottom: 15px;
+}
+.f1-para p {
+	line-height: 28px;
+	padding-top: 0;
+	text-align: center;
+}
+.get-support {
+	align-items: center;
+	padding: 20px 20px;
+}
+.get-support-main {
+	width: 90%;
+	margin: 0 auto;
+}
+.get-support h4 {
+	text-align: center;
+}
+.get-support h3 {
+	text-align: center;
+}
+.more-pages{
+	margin-top: 15px;
+}
+.newsletter{
+	margin-top: 15px;
+}
+.f-head h4 {
+	text-align: center;
+	padding-top: 20px;
+}
+.social-contact h5 {
+	text-align: center;
+}
+.social-icon {
+	text-align: center;
+}
+.social-icon a {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.link-item ul li a {
+	line-height: 30px;	
+}
+.footer-email {
+	margin-top: 20px;
+	padding: 15px 20px;
+}
+#subscribe-btn {
+	margin-top: 15px;
+	padding: 10px 15px;
+}
+.f-bottom {
+	padding: 20px 0;
+}
+.f-bottom h4 {
+	margin-bottom: 0;
+}
+
+/* ------------Header Part Start------------ */
+}
+/* =========================================== Small Device========================================== */
+@media(min-width:576px) and (max-width:767.98px){
+/* ---------Header Part Start--------- */
+.head-top {
+	height: 60px;
+}
+.h-top-left {
+	display: flex;
+	align-items: center;
+	padding-left: 0;
+	justify-content: center;
+}
+.h-logo i {
+	font-size: 28px;
+}
+.h-text-top h4 {
+	font-size: 18px;
+    margin-bottom: 0;
+}
+.h-text-top h5 {
+	font-size: 12px;
+	padding-top: 0px;
+}
+.h-top-mid {
+	justify-content: center;
+}
+.h-top-right {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-right: 0;
+}
+.h-text {
+	padding-left: 7px;
+}
+/* ---------Bannar Part Start--------- */
+#bannar {
+	padding-top: 220px;
+    padding-bottom: 120px;
+}
+.bannar-con h1 {
+	font-size: 57px;
+	line-height: 65px;
+	padding-bottom: 40px;
+}
+.bannar-btn a {
+	padding: 15px 20px;
+	font-size: 15px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+.bannar-array {
+	height: 50px;
+	width: 50px;
+}
+.bannar-array i {
+	font-size: 23px;
+}
+.array-prev {
+	bottom: 175px;
+}
+.array-next {
+	bottom: 150px;
+}
+/* ---------About Part Start--------- */
+#about {
+	padding: 60px 0;
+}
+.founder {
+	padding: 8px 10px;
+	width: 200px;
+	top: 28px;
+	right: -30px;
+}
+.founder-text h4 {
+	font-size: 19px;
+	font-weight: 500;
+}
+.founder-text h6 {
+	font-size: 16px;
+}
+.founder-text {
+	padding-left: 10px;
+}
+.founder-img {
+	height: 70px;
+	width: 70px;
+}
+.about-img img{
+	width: 100%;
+}
+.about-after {
+	width: 90%;
+	top: 35px;
+	left: 5%;
+}
+.sec-heading h5 {
+	padding-left: 75px;
+	margin-top: 30px;
+}
+.sec-heading h5::after {
+	width: 60px;
+}
+.big-heading h2 {
+	font-size: 50px;
+	line-height: 60px;
+	padding-top: 20px;
+}
+.sec-para h5 {
+	font-size: 16px;
+	line-height: 27px;
+}
+.mission-vission a {
+	line-height: 30px;	
+}
+.about-btn {
+	padding-top: 25px;
+}
+.about-btn a {
+	padding: 15px 30px;	
+}
+/* ---------Servic Part Start--------- */
+.service-item {
+	padding: 30px;
+	border: 1px solid #222;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.service-con {
+	padding-left: 20px;
+}
+.s-con-no h2 {
+	font-size: 55px;
+}
+.s-con-name h4 {
+	line-height: 32px;
+}
+.s-con-pera h6 {
+	padding-bottom: 0px;
+}
+.service1{
+	margin-bottom: 10px;
+	background-color: #fff;
+}
+.service2{
+	margin-bottom: 10px;
+}
+.service3{
+	margin-bottom: 10px;
+}
+.service4{
+    background-color: #fff;
+}
+.service-icon i{
+    color:#e54209;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.s-con-no h2{
+    color: #e54209;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.s-con-name h4{
+    color: #222;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.s-con-pera h6{
+    color: #777;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.service-con a{
+    color: #777;
+    border-bottom: 1px solid #777;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.service-item:hover{
+	background-color: #e54209;
+	border: 1px solid #e54209;
+}
+.service-item:hover .service-icon i{
+	color: #fff;
+}
+.service-item:hover .s-con-no h2{
+	color: #fff;
+}
+.service-item:hover .s-con-name h4{
+	color: #fff;
+}
+.service-item:hover .s-con-pera h6{
+	color: #fff;
+}
+.service-item:hover .service-con a{
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+/* ---------Brand Part Start--------- */
+#brand {
+	padding-top: 45px;
+	padding-bottom: 45px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.brand-item{
+	margin: 0 18px;
+}
+/* ---------Our Work Part Start--------- */
+#our-work {
+	padding-top: 50px;
+	padding-bottom: 330px;
+	margin-top: 0px;
+}
+.work-con .sec-para h5 {
+	padding-top: 8px;
+}
+.work-serv-item {
+	padding-top: 10px;
+}
+.work-serv-icon {
+	height: 40px;
+	width: 40px;
+}
+.work-serv-text h5 {
+	font-size: 19px;
+	padding-left: 13px;
+}
+.work-video {
+	height: 350px;
+	margin-top: 40px;
+}
+.work-video-icon {
+	width: 70px;
+	height: 70px;
+}
+.work-video-icon i {
+	font-size: 30px;
+	padding: 17px;
+}
+/* ---------Case Study Part Start--------- */
+#case-study .container {
+	top: -290px;
+}
+.study-array-left {
+	height: 50px;
+	width: 50px;
+}
+.study-array-left i {
+	font-size: 25px;
+}
+.overlay-text {
+	padding: 15px 15px 30px 15px;
+}
+.overlay-text h3 {
+	font-size: 17px;
+	line-height: 20px;
+}
+.study-details {
+	bottom: -18px;
+	left: 15px;
+	width: 140px;
+	height: 40px;
+}
+.study-img{
+	height: 280px;
+}
+.let-know h4 {
+	font-size: 21px;
+	padding-top: 40px;
+	padding-bottom: 44px;
+	line-height: 27px;
+	margin-bottom: 0;
+}
+.case-study-blank-item{
+	display: none;
+}
+.study-array {
+	padding-top: 30px;
+}
+/* ---------Case Study Bg Part Start--------- */
+#case-study-bg {
+	height: 310px;
+}
+/* ---------Process Part Start--------- */
+#process {
+	padding: 60px 0;
+}
+.process-item {
+	padding: 25px 15px;
+	box-shadow: 0px 0px 5px 5px rgba(216, 214, 214, 0.363);
+	margin-bottom: 15px;
+}
+/* ---------Feedback Part Start--------- */
+#feedback {
+	padding-top: 15px;
+	padding-bottom: 300px;
+}
+.feedback-item {
+	padding: 30px 50px;
+	margin-bottom: 15px;
+}
+.feed-item-top-img {
+	height: 80px;
+}
+.feed-item-top-text {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.feed-msg-main {
+	top: -65px;
+	right: -65px;
+	height: 160px;
+	width: 160px;
+}
+.feed-msg-icon {
+	bottom: 35px;
+	left: 30px;
+}
+.feed-msg-icon i {
+	font-size: 50px;
+}
+.feed-name h5 {
+	font-size: 18px;
+	padding-top: 5px;
+	line-height: 15px;
+}
+.feed-review i {
+	font-size: 17px;
+}
+/* ---------Request Part Start--------- */
+.request-item {
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+	padding: 20px;
+}
+#full-name {
+	margin-top: 25px;
+	padding: 15px 20px;
+	width: 400px;
+}
+#full-email {
+	margin-top: 15px;
+	padding: 15px 20px;
+	width: 400px;
+}
+#full-textarea {
+	margin-top: 15px;
+	padding: 15px 20px;
+	width: 400px;
+	height: 100px;
+}
+#submit-btn {
+	margin-top: 14px;
+	margin-bottom: 6px;
+	padding: 15px 20px;
+}
+#request .container{
+    top: -255px;
+}
+.request-img{
+	display: none;
+}
+/* ---------Blog Part Start--------- */
+#blog {
+	margin-top: 210px;
+}
+.blog-heading h5::after {
+	width: 60px;
+	left: 140px;
+}
+.blog-heading h5::before {
+	width: 60px;
+	right: 140px;
+}
+.blog-item {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.blog-item-img {
+	height: 220px;
+}
+.blog-item-text {
+	padding: 20px;
+}
+.blog-item-text h4 {
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: 500;
+}
+.blog-item-text h5 {
+	line-height: 22px;
+}
+.date-main {
+	right: 10px;
+	top: -34px;
+	padding: 10px 10px;
+}
+.date h4 {
+	font-size: 25px;
+}
+.month h5 {
+	font-size: 14px;
+}
+/* ---------Footer Part Start--------- */
+.f-top {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.f-logo{
+	text-align: center;
+	padding-bottom: 15px;
+}
+.f1-para p {
+	line-height: 24px;
+	padding-top: 0;
+	text-align: center;
+}
+.get-support {
+	align-items: center;
+	padding: 20px 20px;
+}
+.get-support-main {
+	width: 90%;
+	margin: 0 auto;
+}
+.get-support h4 {
+	text-align: center;
+}
+.get-support h3 {
+	text-align: center;
+}
+.more-pages{
+	margin-top: 15px;
+}
+.newsletter{
+	margin-top: 15px;
+}
+.f-head h4 {
+	text-align: center;
+	padding-top: 20px;
+}
+.social-contact h5 {
+	text-align: center;
+}
+.social-icon {
+	text-align: center;
+}
+.social-icon a {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.link-item ul li a {
+	line-height: 30px;	
+}
+.footer-email {
+	margin-top: 20px;
+	padding: 15px 20px;
+}
+#subscribe-btn {
+	margin-top: 15px;
+	padding: 10px 15px;
+}
+.f-bottom {
+	padding: 20px 0;
+}
+.f-bottom h4 {
+	margin-bottom: 0;
+}
+
+}
+/* ===========================================Extra Small Device========================================== */
+@media(max-width:575.98px){
+/* ---------Header Part Start--------- */
+.head-top {
+	height: 60px;
+}
+.h-top-left {
+	display: flex;
+	align-items: center;
+	padding-left: 0px;
+	align-items: center;
+	justify-content: center;
+}
+.h-logo i {
+	font-size: 28px;
+}
+.h-text-top h4 {
+	font-size: 18px;
+    margin-bottom: 0;
+}
+.h-text-top h5 {
+	font-size: 12px;
+	padding-top: 0px;
+}
+.h-top-mid {
+	display: none;
+}
+.h-top-right {
+	padding-right: 0px;
+	justify-content: center;
+}
+.h-text {
+	padding-left: 7px;
+}
+/* ---------Navbar Part Start--------- */
+/* ---------Bannar Part Start--------- */
+#bannar {
+	padding-top: 220px;
+    padding-bottom: 120px;
+}
+.bannar-con h1 {
+	font-size: 33px;
+	line-height: 40px;
+}
+.bannar-btn a {
+	padding: 10px 15px;
+	font-size: 13px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.bannar-array {
+	height: 30px;
+	width: 30px;
+}
+.bannar-array i {
+	font-size: 18px;
+}
+.array-prev {
+	bottom: 150px;
+}
+.array-next {
+	bottom: 150px;
+}
+/* ---------About Part Start--------- */
+#about {
+	padding: 50px 0;
+}
+.founder {
+	padding: 3px 5px;
+	width: 160px;
+	top: 25px;
+	right: -12px;
+}
+.founder-text h4 {
+	font-size: 14px;
+	font-weight: 500;
+}
+.founder-text {
+	padding-left: 10px;
+}
+.founder-img {
+	height: 60px;
+	width: 60px;
+}
+.about-img img{
+	width: 100%;
+}
+.about-after {
+	width: 90%;
+	top: 20px;
+	left: 15px;
+}
+.sec-heading h5 {
+	padding-left: 60px;
+	margin-top: 30px;
+}
+.sec-heading h5::after {
+	width: 45px;
+}
+.big-heading h2 {
+	font-size: 32px;
+	line-height: 35px;
+	padding-top: 15px;
+}
+.sec-para h5 {
+	font-size: 14px;
+	line-height: 22px;
+}
+.mission-vission a {
+	line-height: 30px;	
+}
+.about-btn {
+	padding-top: 15px;
+}
+.about-btn a {
+	padding: 10px 15px;	
+}
+/* ---------Servic Part Start--------- */
+.service-item {
+	padding: 20px;
+	border: 1px solid #222;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.service-con {
+	padding-left: 15px;
+}
+.s-con-no h2 {
+	font-size: 40px;
+}
+.s-con-name h4 {
+	line-height: 28px;
+}
+.s-con-pera h6 {
+	padding-bottom: 0px;
+}
+.service1{
+	margin-bottom: 10px;
+	background-color: #fff;
+}
+.service2{
+	margin-bottom: 10px;
+}
+.service3{
+	margin-bottom: 10px;
+}
+.service4{
+    background-color: #fff;
+}
+.service-icon i{
+    color:#e54209;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.s-con-no h2{
+    color: #e54209;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.s-con-name h4{
+    color: #222;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.s-con-pera h6{
+    color: #777;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.service-con a{
+    color: #777;
+    border-bottom: 1px solid #777;
+	transition: all linear 0.3s;
+	-webkit-transition: all linear 0.3s;
+	-moz-transition: all linear 0.3s;
+	-ms-transition: all linear 0.3s;
+	-o-transition: all linear 0.3s;
+}
+.service-item:hover{
+	background-color: #e54209;
+	border: 1px solid #e54209;
+}
+.service-item:hover .service-icon i{
+	color: #fff;
+}
+.service-item:hover .s-con-no h2{
+	color: #fff;
+}
+.service-item:hover .s-con-name h4{
+	color: #fff;
+}
+.service-item:hover .s-con-pera h6{
+	color: #fff;
+}
+.service-item:hover .service-con a{
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+/* ---------Brand Part Start--------- */
+#brand {
+	padding-top: 45px;
+	padding-bottom: 45px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.brand-item{
+	margin: 0 16px;
+}
+/* ---------Our Work Part Start--------- */
+#our-work {
+	padding-top: 30px;
+	padding-bottom: 300px;
+	margin-top: 0px;
+}
+.work-con .big-heading h2 {
+	line-height: 35px;
+	padding-top: 11px;
+}
+.work-con .sec-para h5 {
+	padding-top: 8px;
+}
+.work-serv-item {
+	padding-top: 10px;
+}
+.work-serv-icon {
+	height: 30px;
+	width: 30px;
+}
+.work-serv-text h5 {
+	font-size: 16px;
+	padding-left: 10px;
+}
+.work-video {
+	height: 270px;
+	margin-top: 35px;
+}
+.work-video-icon {
+	width: 60px;
+	height: 60px;
+}
+.work-video-icon i {
+	font-size: 25px;
+	padding: 17px;
+}
+/* ---------Case Study Part Start--------- */
+.study-array-left {
+	height: 30px;
+	width: 30px;
+}
+.study-array-left i {
+	font-size: 20px;
+}
+.overlay-text {
+	padding: 15px 15px 30px 15px;
+}
+.overlay-text h3 {
+	font-size: 17px;
+	line-height: 20px;
+}
+.study-details {
+	bottom: -18px;
+	left: 15px;
+	width: 140px;
+	height: 40px;
+}
+.study-img{
+	height: 280px;
+}
+.let-know h4 {
+	font-size: 21px;
+	padding-top: 40px;
+	padding-bottom: 44px;
+	line-height: 27px;
+	margin-bottom: 0;
+}
+#case-study .container{
+    top: -270px;
+}
+.case-study-blank-item{
+	display: none;
+}
+.study-array {
+	padding-top: 30px;
+}
+/* ---------Case Study Bg Part Start--------- */
+#case-study-bg {
+	height: 310px;
+}
+/* ---------Process Part Start--------- */
+#process {
+	padding: 60px 0;
+}
+.process-item {
+	padding: 25px 15px;
+	box-shadow: 0px 0px 5px 5px rgba(216, 214, 214, 0.363);
+	margin-bottom: 15px;
+}
+/* ---------Feedback Part Start--------- */
+#feedback {
+	padding-top: 15px;
+	padding-bottom: 300px;
+}
+.feedback-item {
+	padding: 20px;
+	margin-bottom: 15px;
+}
+.feed-item-top-img {
+	height: 70px;
+}
+.feed-item-top-text {
+	padding-left: 10px;
+	padding-top: 2px;
+}
+.feed-msg-main {
+	top: -55px;
+	right: -55px;
+	height: 120px;
+	width: 120px;
+}
+.feed-msg-icon {
+	bottom: 25px;
+	left: 25px;
+}
+.feed-msg-icon i {
+	font-size: 30px;
+}
+.feed-name h5 {
+	font-size: 16px;
+	padding-top: 5px;
+	line-height: 15px;
+}
+.feed-review i {
+	font-size: 13px;
+}
+/* ---------Request Part Start--------- */
+.request-item {
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+	padding: 10px;
+}
+#full-name {
+	margin-top: 25px;
+	padding: 15px 20px;
+	width: 250px;
+}
+#full-email {
+	margin-top: 15px;
+	padding: 15px 20px;
+	width: 250px;
+}
+#full-textarea {
+	margin-top: 15px;
+	padding: 15px 20px;
+	width: 250px;
+	height: 100px;
+}
+#submit-btn {
+	margin-top: 14px;
+	margin-bottom: 6px;
+	padding: 10px 15px;
+}
+#request .container{
+    top: -255px;
+}
+.request-img{
+	display: none;
+}
+/* ---------Blog Part Start--------- */
+#blog {
+	margin-top: 130px;
+}
+.blog-item {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.blog-item-text {
+	padding: 20px;
+}
+.blog-item-text h4 {
+	font-size: 18px;
+	line-height: 22px;
+}
+.date-main {
+	right: 10px;
+	top: -34px;
+	padding: 10px 10px;
+}
+.date h4 {
+	font-size: 25px;
+}
+.month h5 {
+	font-size: 14px;
+}
+/* ---------Footer Part Start--------- */
+.f-top {
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.f-logo{
+	text-align: center;
+	padding-bottom: 15px;
+}
+.f1-para p {
+	line-height: 24px;
+	padding-top: 0;
+}
+.get-support {
+	padding: 20px 20px;
+}
+.get-support-main {
+	width: 100%;
+}
+.get-support h4 {
+	text-align: center;
+}
+.get-support h3 {
+	text-align: center;
+}
+.f-head h4 {
+	text-align: center;
+	padding-top: 20px;
+}
+.social-contact h5 {
+	text-align: center;
+}
+.social-icon {
+	text-align: center;
+}
+.social-icon a {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.link-item ul li a {
+	line-height: 30px;	
+}
+.footer-email {
+	margin-top: 20px;
+	padding: 15px 20px;
+}
+#subscribe-btn {
+	margin-top: 15px;
+	padding: 10px 15px;
+}
+.f-bottom {
+	padding: 10px 0;
+}
+.f-bottom h4 {
+	margin-bottom: 0;
+}
+/* ---------Header Part Start--------- */
+/* ---------Header Part Start--------- */
+/* ---------Header Part Start--------- */
+}
